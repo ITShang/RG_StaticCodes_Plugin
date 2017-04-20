@@ -1,0 +1,9 @@
+<plugin name=\"RG_StaticCode_Plugin\" version=\"0.0.1\" compatVersion=\"0.0.1\">
+    <vendor>RGCompany</vendor>
+    <copyright>(C) RgCompany</copyright>
+    <license>Put your license text here</license>
+    <description>统计项目代码量。</description>
+    <url>http://www.rgcompany.com</url>
+    $$dependencyList
+</plugin>
+
